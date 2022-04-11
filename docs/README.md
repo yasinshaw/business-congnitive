@@ -22,6 +22,8 @@
 
 ## 进度
 
+目前计划的内容，持续更新中。。。
+
 - [ ] 通用业务
   - [ ] 权限系统
   - [ ] 文章业务
@@ -45,6 +47,8 @@
   - [ ] 进销存管理
   - [ ] 绩效管理
   - [ ] 财务管理
+- [ ] 金融业务
+  - [ ] 基金业务
 
 ## 支持
 
@@ -56,10 +60,29 @@
 
 本项目使用**七牛云**图床保存图片。
 
-## 贡献者
+## 贡献
 
-非常欢迎对某个业务领域有深入理解的同学加入我们，一起完善这个文档，加入之前请联系发起人（微信号yasinshaw，你可以叫我Yasin），然后在github提交PR即可。
+非常欢迎对某个业务领域有深入理解的同学加入我们，一起完善这个文档，加入之前请联系发起人（微信号yasinshaw，你可以叫我 萤火虫），然后在github提交PR即可。
 
-贡献者列表（排名不分先后）：
+### 本地运行
 
-- [yasinshaw](https://github.com/yasinshaw)
+```bash
+# 安装docsify
+npm i -g docsify
+
+# 运行服务
+docsify serve ./docs
+```
+
+### 添加内容
+
+- 在docs目录下对应的文件夹中添加目录
+- 修改docs/_sidebar
+
+### 贡献者列表
+
+排名不分先后：
+
+- 萤火虫 [yasinshaw](https://github.com/yasinshaw)
+- [cyoking](https://github.com/cyoking)
+- [gongxianshengjiadexiaohuihui](https://github.com/gongxianshengjiadexiaohuihui)
