@@ -1,10 +1,12 @@
-# docsify <small>3.5</small>
+![logo](_media/icon.svg)
 
-> 一个神奇的文档网站生成器。
+# 《业务认知》 <small>v0.0.1</small>
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+> 基于技术视角，构建系统的业务认知体系
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](README)
+- 常见业务的介绍
+- 核心模型思考
+- 技术架构
+
+[GitHub](https://github.com/yasinshaw/business-congnitive)
+[开始阅读](README)
